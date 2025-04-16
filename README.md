@@ -1,6 +1,6 @@
 # Arduino_PCR_loop-
 PCR Thermocycler
-This project demonstrates an Arduino-based PCR (Polymerase Chain Reaction) Thermocycler for DNA amplification. It uses a thermistor to measure temperature and a Peltier module (with fan control) to maintain the specific temperature ranges required for PCR cycles. The device is controlled through a sequence of steps: denaturation, annealing, and extension, which are essential for PCR-based experiments. The Arduino codes run based on easy to understand switch statements.
+This project demonstrates an Arduino-based PCR (Polymerase Chain Reaction) Thermocycler for DNA amplification. It uses a thermistor to measure temperature and a Peltier module (with fan control) to maintain the specific temperature ranges required for PCR cycles. The device is controlled through a sequence of steps: denaturation, annealing, and extension, which are essential for PCR-based experiments. The Arduino codes run based on easy to understand switch statement and another on generic switch blocks which may be eirsier to decode.
 
 🔧 Hardware Components
 Arduino Uno: Microcontroller to run the system.
